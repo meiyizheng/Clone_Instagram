@@ -1,0 +1,7 @@
+#Mon Feb 03 18:51:59 PST 2020
+base.0=/Users/meiyizheng/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/meiyizheng/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
